@@ -29,10 +29,9 @@ struct SlangCompilerSwiftPort: ParsableCommand {
             )
         )
         print(exp2.evaluate(context: runtimeContex))
+        //NOTE : The above is not accurate representation of the AST
+        // Can you guess why ?
         
-        
-   
-
         
     }
 }
