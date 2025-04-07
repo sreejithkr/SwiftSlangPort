@@ -36,6 +36,3 @@ struct SlangCompilerSwiftPort: ParsableCommand {
         
     }
 }
-
-
-5 constat  * operator constant 10
